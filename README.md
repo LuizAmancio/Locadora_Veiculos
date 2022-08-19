@@ -1,3 +1,3 @@
 # Locadora_Veiculos
 
-PHP, HTML, CSS e Sql
+Projeto usando PHP
